@@ -6,6 +6,8 @@ Download unsigned m3u8 to local mp4
 
 Smaller VOD sites have been putting their content behind m3u8 links to prevent people from saving their content directly. If you can access the m3u8 link in the page source, this tool is significantly faster than downloading via VLC or other real-time capture methods. This will save the file as quickly as the host can make it available, often many times faster than playback speed.
 
+If you have more than a dozen VODs to grab, this is for you.
+
 # Assumptions
 CSV parser assumes your list is arranged as: filename, http://<linktoplace>.m3u8 
 

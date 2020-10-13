@@ -12,4 +12,4 @@ for x in range(len(data)):
 	print("Writing File: " + filename)
 	video = ffmpeg_streaming.input(streamlink)
 	stream = video.stream2file(Formats.h264())
-	stream.output('/mnt/d/Turning/' + filename + '.mp4')
+	stream.output('<your local directory>' + filename + '.mp4')

@@ -1,6 +1,6 @@
 # m3u8-to-mp4
 
-Download unencrypted m3u8 to local mp4
+Download unsigned m3u8 to local mp4
 
 # Why use this? 
 

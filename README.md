@@ -12,7 +12,7 @@ If you have more than a dozen VODs to grab, this is for you.
 CSV parser assumes your list is arranged as: filename, http://<linktoplace>.m3u8 
 
 
-# Depencenies: 
+# Dependencies: 
 python3.7,
 https://github.com/aminyazdanpanah/python-ffmpeg-video-streaming,
 csv,
